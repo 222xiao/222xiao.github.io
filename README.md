@@ -2,9 +2,9 @@
 
 Static GitHub Pages site for [222xiao.github.io](https://222xiao.github.io). The layout follows the academic profile pattern of the [Academic Pages template](https://github.com/ycsek/ycsek.github.io): top navigation, profile sidebar, research interests, and publication list. The implementation is original HTML, CSS, and JavaScript.
 
-## Publish
+## Publishing
 
-Create a public GitHub repository named `222xiao.github.io` under the `222xiao` account. Push these files to the repository root on the `main` branch. In **Settings → Pages**, choose **Deploy from a branch**, `main`, `/ (root)`. GitHub Pages will serve the site at `https://222xiao.github.io/`.
+The public `222xiao.github.io` repository serves this site from the `main` branch root. Push updates to `main` and GitHub Pages will redeploy automatically at `https://222xiao.github.io/`.
 
 ## Edit
 
