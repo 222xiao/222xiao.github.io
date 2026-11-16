@@ -80,6 +80,10 @@ button { font: inherit; }
 .publication .venue { color: var(--muted); font-style: italic; }
 .publication .paper-links { margin-top: 5px; }
 .paper-links a { margin-right: 14px; font-size: 13px; }
+.presentation-photo { margin: 15px 0 4px; }
+.presentation-photo a { display: block; width: min(100%, 490px); }
+.presentation-photo img { display: block; width: 100%; height: auto; border: 1px solid var(--line); }
+.presentation-photo figcaption { margin-top: 6px; color: var(--muted); font-size: 12px; line-height: 1.5; }
 footer { color: #888; font-size: 12px; padding: 14px 0 35px; }
 
 @media (max-width: 780px) {

@@ -12,4 +12,4 @@ The public `222xiao.github.io` repository serves this site from the `main` branc
 - `styles.css`: visual layout and responsive styles.
 - `script.js`: English/Chinese language switch and mobile menu.
 
-The profile photo is stored locally in `profile.jpg`. Publication entries are a curated selection; verify additions against the final publisher or preprint record before adding them.
+The profile photo is stored locally in `profile.jpg`. The IEEE BIBM 2025 presentation photo is stored in `bibm2025-retinaguard.jpg` and displayed with the RetinaGuard paper. Publication entries are a curated selection; verify additions against the final publisher or preprint record before adding them.
