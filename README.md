@@ -12,4 +12,4 @@ The public `222xiao.github.io` repository serves this site from the `main` branc
 - `styles.css`: visual layout and responsive styles.
 - `script.js`: English/Chinese language switch and mobile menu.
 
-The portrait currently uses the public GitHub avatar, with an initials fallback. Replace its `src` in `index.html` with a local image if preferred. Publication entries are a curated selection; verify additions against the final publisher or preprint record before adding them.
+The portrait is a copy of the public GitHub avatar in `avatar.jpg`, with an initials fallback. Replace it with a preferred portrait when ready. Publication entries are a curated selection; verify additions against the final publisher or preprint record before adding them.
